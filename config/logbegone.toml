@@ -1,0 +1,5 @@
+
+[logbegone]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Unknown type", "Recipe without matching ID", "Parsing error loading recipe"]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Unknown type", "Recipe without matching ID", "Parsing error loading recipe"]
+

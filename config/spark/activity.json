@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717776967593,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zIV5SzWDyM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717776106965,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oORwc3OJxS"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717775891907,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BkNLeIhIyL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717775726403,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qJnsNvAlPb"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717775691664,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "/home/container/config/spark/heap-2024-06-07_15.54.25.hprof"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1717775661080,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kAjD9szgkL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1714335402871,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oo62bJF4xH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Danooned",
+      "uniqueId": "5fa3d579-b375-4296-8fb3-0e89108bb567"
+    },
+    "time": 1714335397520,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1vfsAVk1k2"
+    }
+  }
+]
