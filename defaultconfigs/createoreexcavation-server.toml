@@ -18,5 +18,5 @@ veinFinderNear = 1
 veinFinderFar = 25
 #Vein Finder use cooldown in ticks
 #Range: 10 ~ 1000
-veinFinderCd = 100
+veinFinderCd = 40
 
