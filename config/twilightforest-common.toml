@@ -83,22 +83,22 @@ cloudBlockPrecipitationDistance = 32
 	disableTimeCore = false
 	#Defines the radius at which the Timewood Core works. Can be a number anywhere between 1 and 128.
 	#Range: 1 ~ 128
-	timeCoreRange = 16
+	timeCoreRange = 8
 	#If true, prevents the Transformation Core from functioning.
 	disableTransformationCore = false
 	#Defines the radius at which the Transformation Core works. Can be a number anywhere between 1 and 128.
 	#Range: 1 ~ 128
-	transformationCoreRange = 16
+	transformationCoreRange = 8
 	#If true, prevents the Minewood Core from functioning.
 	disableMiningCore = false
 	#Defines the radius at which the Minewood Core works. Can be a number anywhere between 1 and 128.
 	#Range: 1 ~ 128
-	miningCoreRange = 16
+	miningCoreRange = 8
 	#If true, prevents the Sortingwood Core from functioning.
 	disableSortingCore = false
 	#Defines the radius at which the Sortingwood Core works. Can be a number anywhere between 1 and 128.
 	#Range: 1 ~ 128
-	sortingCoreRange = 16
+	sortingCoreRange = 8
 
 #We recommend downloading the Shield Parry mod for parrying, but these controls remain for without.
 ["Shield Parrying"]
