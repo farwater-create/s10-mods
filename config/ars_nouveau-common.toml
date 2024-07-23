@@ -49,7 +49,7 @@
 	spawnTomes = true
 	#How much mana the Ring of Jumping consumes per jump
 	#Range: 0 ~ 10000
-	jumpRingCost = 30
+	jumpRingCost = 40
 
 #Blocks
 [block]

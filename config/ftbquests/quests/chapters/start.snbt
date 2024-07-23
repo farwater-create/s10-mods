@@ -1,0 +1,36 @@
+{
+	always_invisible: true
+	autofocus_id: "02D9C575F8EE174F"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start"
+	group: ""
+	id: "362DAACDE9E12F3F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			""
+			"{image:toughasnails:item/dirty_water_bottle width:100 height:100 align:1}"
+		]
+		icon: "create:large_water_wheel"
+		id: "02D9C575F8EE174F"
+		rewards: [{
+			count: 8
+			id: "233C1F8E5ABC8776"
+			item: "farmersdelight:hamburger"
+			type: "item"
+		}]
+		size: 2.0d
+		subtitle: "Welcome to Farwater Mysticism!"
+		tasks: [{
+			id: "144A19EF86989466"
+			title: "Welcome to Farwater"
+			type: "checkmark"
+		}]
+		title: "Farwater Mysticism"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Welcome"
+}

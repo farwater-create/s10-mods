@@ -4,19 +4,19 @@
 	"Armed Armor Stands" = true
 	"Automatic Recipe Unlock" = true
 	"Beach Villagers" = true
-	"Better Elytra Rocket" = true
-	"Campfires Boost Elytra" = true
+	"Better Elytra Rocket" = false
+	"Campfires Boost Elytra" = false
 	"Compasses Work Everywhere" = true
 	"Coral On Cactus" = true
-	"Diamond Repair" = true
+	"Diamond Repair" = false
 	"Dragon Scales" = true
 	"Dyeable Item Frames" = true
 	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
+	"Gold Tools Have Fortune" = false
 	"Grab Chickens" = true
-	"Hoe Harvesting" = true
+	"Hoe Harvesting" = false
 	"Horses Swim" = true
 	"Improved Sponges" = true
 	"Lock Rotation" = true
@@ -33,9 +33,9 @@
 	"Renewable Spore Blossoms" = true
 	"Replace Scaffolding" = true
 	"Safer Creatures" = true
-	"Shulker Packing" = true
+	"Shulker Packing" = false
 	"Simple Harvest" = true
-	"Slabs To Blocks" = true
+	"Slabs To Blocks" = false
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Utility Recipes" = true
@@ -127,7 +127,7 @@
 	[tweaks.improved_sponges]
 		#The maximum number of water tiles that a sponge can soak up. Vanilla default is 64.
 		#Allowed values: [64,)
-		"Maximum Water Drain" = 256
+		"Maximum Water Drain" = 128
 		#The maximum number of water tiles that a sponge can 'crawl along' for draining. Vanilla default is 6.
 		#Allowed values: [6,)
 		"Maximum Crawl Distance" = 10

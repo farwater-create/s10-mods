@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "first_steps"
+	group: "00C7AED83D1CE9D9"
+	id: "64A9C4BF2A23BBC7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "First Steps"
+}

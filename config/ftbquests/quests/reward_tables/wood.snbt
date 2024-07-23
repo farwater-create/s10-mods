@@ -1,0 +1,23 @@
+{
+	id: "39AA5987B0F529D1"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "minecraft:oak_log" }
+		{ item: "minecraft:spruce_log" }
+		{ item: "minecraft:birch_log" }
+		{ item: "minecraft:jungle_log" }
+		{ item: "minecraft:acacia_log" }
+		{ item: "minecraft:dark_oak_log" }
+		{ item: "minecraft:mangrove_log" }
+		{ item: "minecraft:cherry_log" }
+		{ item: "vinery:cherry_log" }
+		{ item: "vinery:apple_log" }
+		{ item: "iceandfire:dreadwood_log" }
+		{ item: "ars_nouveau:blue_archwood_log" }
+		{ item: "ars_nouveau:red_archwood_log" }
+		{ item: "ars_nouveau:purple_archwood_log" }
+		{ item: "ars_nouveau:green_archwood_log" }
+	]
+	title: "wood"
+}

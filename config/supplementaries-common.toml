@@ -3,15 +3,15 @@
 	wind_vane = true
 	clock_block = true
 	redstone_illuminator = true
-	crank = true
-	cog_block = true
+	crank = false
+	cog_block = false
 	gold_door = true
 	gold_trapdoor = true
 	lock_block = true
 	relayer = true
 
 	[redstone.speaker_block]
-		enabled = true
+		enabled = false
 		#Enable/disable speaker block narrator mode
 		narrator_enabled = true
 		#Max text
@@ -51,8 +51,8 @@
 		fall_height_required = 5
 
 	[redstone.enderman_head]
-		enabled = true
-		drop_head = true
+		enabled = false
+		drop_head = false
 		#Time to increase 1 power level when being looked at
 		#Range: 0 ~ 10000
 		ticks_to_increase_power = 15

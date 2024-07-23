@@ -46,7 +46,7 @@ cloudBlockPrecipitationDistance = 32
 	#Higher values means the recipe will cost more to uncraft, lower means less. Set to 0 to disable the cost altogether.
 	#Note that this only affects reversed crafting recipes, uncrafting recipes will still use the same cost as they normally would.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	uncraftingXpCostMultiplier = 1.0
+	uncraftingXpCostMultiplier = 2.0
 	#Multiplies the total XP cost of repairing an item and rounds up.
 	#Higher values means the recipe will cost more to repair, lower means less. Set to 0 to disable the cost altogether.
 	#Range: 0.0 ~ 1.7976931348623157E308
