@@ -28,7 +28,7 @@
 		#Range: > 1
 		maxPartyMembers = 64
 		#The maximum number of allies for a party. Existing allies are not removed if the limit is reduced.
-		#Range: > 0
+	#Range: > 0
 		maxPartyAllies = 64
 		#The maximum number of invites to a party. Existing invites are not removed if the limit is reduced.
 		#Range: > 1
@@ -244,14 +244,14 @@
 			#By default, most item right-click uses are disabled in protected chunks. To make an exception for a specific item, add it to this list. This option has a higher priority than "additionalBannedItemsList".
 			#This list applies to both using an item at air and using it at a block/entity. Supports item tags. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:fishing_rod", "minecraft:ender_pearl", "minecraft:(red|green)_bed", "#minecraft:beds"]
-			itemUseProtectionExceptionList = ["minecraft:firework_rocket, #curios:back"]
+        	itemUseProtectionExceptionList = ["minecraft:firework_rocket", "#curios:back", "numismatics:vendor", "numismatics:bank_terminal", "numismatics:creative_vendor"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".
 			#The player config options created for the groups, like regular options, must be added in the "playerConfigurablePlayerConfigOptions" list for players to have access to them.
 			#The exact paths of the added options can be found in the default player config file after you start the server.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
-			itemUseProtectionOptionalExceptionGroups = ["Books{minecraft:written_book, minecraft:writable_book}, #curios:back"]
+        	itemUseProtectionOptionalExceptionGroups = ["Books{minecraft:written_book, minecraft:writable_book}", "Backpack{#curios:back}", "Numismatics{numismatics:vendor, numismatics:bank_terminal, numismatics:creative_vendor}"]
 			#Items that are completely banned from right-click usage on the server, claimed or not. This list applies to both using an item at air and using it at a block/entity. Supports item tags.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:trident", "minecraft:shield", "minecraft:(oak|spruce)_boat", "#minecraft:boats"]
