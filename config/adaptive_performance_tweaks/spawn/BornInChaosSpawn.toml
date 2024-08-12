@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Born in Chaos Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "born_in_chaos_v1"
 	#e.g. mobs which will always attack yon ...
 	#Range: 1 ~ 64

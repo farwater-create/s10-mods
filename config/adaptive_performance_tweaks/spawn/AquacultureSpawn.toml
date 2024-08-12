@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Aquaculture 2 Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "aquaculture"
 	#Range: 1 ~ 64
 	MaxFishPerPlayer = 4

@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Untamed Wilds Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "untamedwilds"
 	#Range: 1 ~ 64
 	MaxPassiveMobsPerPlayer = 4

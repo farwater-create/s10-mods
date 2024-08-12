@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Tinkers Construct Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "tconstruct"
 	#Range: 1 ~ 64
 	MaxHostileMobsPerPlayer = 6

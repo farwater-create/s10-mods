@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Panthalassa Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "panthalassa"
 	#Range: 1 ~ 64
 	MaxPassiveMobsPerPlayer = 4

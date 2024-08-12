@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Mekanism Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "mekanismadditions"
 	#Range: 1 ~ 64
 	MaxPassiveMobsPerPlayer = 4

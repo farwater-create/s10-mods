@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Friends and Foes Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "friendsandfoes"
 	#Range: 1 ~ 64
 	MaxPassiveMobsPerPlayer = 8

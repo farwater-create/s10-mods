@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Alexs Mobs Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "alexsmobs"
 	#Range: 1 ~ 64
 	MaxPassiveMobsPerPlayer = 4

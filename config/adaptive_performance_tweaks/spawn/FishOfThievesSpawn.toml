@@ -1,7 +1,7 @@
 
 #Adaptive Performance Tweaks: Spawn
 ["Fish of Thieves Spawn Config"]
-	Enabled = true
+	Enabled = false
 	Id = "fishofthieves"
 	#Range: 1 ~ 64
 	MaxFishPerPlayer = 16
