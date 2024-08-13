@@ -4,7 +4,7 @@
 	#General allow list for spawn entities (e.g. minecraft:squid) which should be ignored for optimization.
 	allowList = ["minecraft:chicken","minecraft:cow","minecraft:sheep"]
 	#General deny list for spawn entities (e.g. minecraft:bat) to no longer spawn in all worlds.
-	denyList = [""]
+	denyList = ["alexsmobs:fly"]
 	#General list of ignored dimensions.
 	spawnIgnoreDimensionList = ["minecraft:the_end"]
 	#Enable/Disable more aggressive and strict spawn limitations.
