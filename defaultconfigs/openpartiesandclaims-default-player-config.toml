@@ -135,7 +135,7 @@
 			#When enabled, claimed chunk protection includes protection from village raids. It stops raiders from spawning inside the protected chunks, from entering them and from hurting protectable entities, even if entity protection is turned off.
 			raids = true
 			#When enabled, claimed chunk protection includes players being protected from player attacks.
-			playersFromPlayers = false
+			playersFromPlayers = true
 			#When enabled, claimed chunk protection includes players being protected from mob attacks.
 			playersFromMobs = false
 			#When enabled, claimed chunk protection includes players being protected against non-living entities.
