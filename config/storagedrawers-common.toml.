@@ -18,7 +18,6 @@
 	#List of rules in format "domain:item1, domain:item2, n".
 	#Creates a compacting drawer rule to convert 1 of item1 into n of item2.
 	compactingRules = ["minecraft:clay, minecraft:clay_ball, 4"]
-        compactingRules = ["iceandfire:ash, supplementaries:ash, 9"]
 
 
 [StorageUpgrades]
