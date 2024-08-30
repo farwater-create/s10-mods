@@ -111,7 +111,7 @@
 			#No longer a working option. Please transfer anything you still have here to "forcedEntityProtectionExceptionList" or "entityProtectionOptionalExceptionGroups",
 			#but keep in mind that those options work differently and please read their comments.
 			#This option will be completely removed on the full release of the mod.
-			entityProtectionExceptionList = []
+			entityProtectionExceptionList = ["corpse:corpse"]
 			#No longer a working option. Please transfer anything you still have here to "forcedEntityClaimBarrierList" or "entityClaimBarrierOptionalGroups",
 			#but keep in mind that those options work differently and please read their comments.
 			#This option will be completely removed on the full release of the mod.
