@@ -20,7 +20,7 @@
 
 ["Random Tick Speed"]
 	#Enable/Disable dynamic random tick speed adjustments.
-	randomTickSpeedEnabled = true
+	randomTickSpeedEnabled = false
 	#Defines the max. speed of crops grow, leaf decay, redstone, ... per chunk
 	#Range: 1 ~ 256
 	randomTickSpeed = 3
