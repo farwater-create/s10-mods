@@ -398,7 +398,7 @@
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
 	#Range: 256 ~ 32767
-	maxSchematicPacketSize = 1024
+	maxSchematicPacketSize = 32767
 	#.
 	#Amount of game ticks without new packets arriving until an active schematic upload process is discarded.
 	#Range: > 100
