@@ -57,6 +57,12 @@
 		chatBoxMaxRange = -1
 		#If true, the chat box is able to send messages to other dimensions than its own
 		chatBoxMultiDimensional = true
+		#If true, the chat box cannot use 'run_command' action
+		chatBoxPreventRunCommand = false
+		#If true, the chat box will wrap and execute 'run_command' or 'suggest_command' action with zero permission, in order to prevent operators accidently run dangerous commands.
+		chatBoxWrapCommand = true
+		#These commands below will not be able to send by 'run_command' or 'suggest_command' action. It will match as prefix if starts with '/', other wise use regex pattern
+		chatBoxBannedCommands = ["/execute", "/op", "/deop", "/gamemode", "/gamerule", "/stop", "/give", "/fill", "/setblock", "/summon", "/whitelist", "^/ban-(?:ip)?\\s*", "^/pardon-(?:ip)?\\s*", "^/save-(?:on|off)\\s*"]
 
 	[Peripherals.ME_Bridge]
 		#Enable the Me Bridge or not.
@@ -158,4 +164,3 @@
 		scanEntitiesExtraBlockCost = 0.17
 		#Range: > 1000
 		chatMessageCooldown = 1000
-
