@@ -15,7 +15,7 @@
 		#If true, the player detector can observe players which aren't in the same dimension as the detector itself. `playerDetMaxRange` needs to be infinite(-1) for it to work.
 		chatBoxMultiDimensional = true
 		#If true, add random error to `getPlayerPos` player position that varies based on how far the player is from the detector. Prevents getting the exact position of players far from the detector.
-		enablePlayerPosRandomError = false
+		enablePlayerPosRandomError = true
 		#The maximum amount of error (in blocks) that can be applied to each axis of the player's position.
 		#Range: > 0
 		playerPosRandomErrorAmount = 1000
@@ -94,7 +94,7 @@
 
 	[Peripherals.Geo_Scanner]
 		#Enable the geo scanner or not.
-		enableGeoScanner = true
+		enableGeoScanner = false
 
 	[Peripherals.Colony_Integrator]
 		#Enable the colony integrator or not.
